@@ -1,6 +1,6 @@
 Here is the plain text version for your README.md.
 
-I have removed all of the HTML tags (<br>, <h1>, <ul>, etc.) from the text itself so that GitHub doesn't get confused, and formatted it using pure Markdown (which GitHub reads perfectly).
+I have removed all of the HTML tags from the text itself so that GitHub doesn't get confused, and formatted it using pure Markdown (which GitHub reads perfectly).
 
 Recipe Website
 Overview
